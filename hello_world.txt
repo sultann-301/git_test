@@ -1,0 +1,5 @@
+const purple = []
+
+for(let numbers of purple){
+    numbers = prompt("put a number pls")
+}
